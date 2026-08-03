@@ -12,7 +12,7 @@ After installation we should make sure everything works as expected.
 
 Let's go through a checklist:
 
-- Houdini should start, and in COP context you should see `ComfyUI` nodes (such as `comfyui_compound_graph_submit1`)
+- Houdini should start, and in COP context you should see `ComfyUI` nodes (such as `Comfyui compound graph submit`)
 
 - ComfyUI should start, and you should see anything but an error there
 
@@ -47,6 +47,8 @@ Let's go through a checklist:
     You can cancel the operation
 
     ![Trimesh UV Unwrap Node in ComfyUI](images/first_steps_1_unwrap_node.png)
+
+    > **Note:** The `Trimesh UV Unwrap` node requires the optional `trimesh` Python package in the ComfyUI environment. If it does not appear, install it — see [Dependencies](Dependencies.md).
 
 Now if you have encountered no errors and everything worked as expected - that means the installation was likely a success.
 

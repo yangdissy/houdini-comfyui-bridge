@@ -134,6 +134,10 @@ Ensure you have the following installed:
 
 [Install guide 2](docs/Installation_2_Plugin.md)
 
+### Step 3: Install dependencies
+
+Some Python packages and ComfyUI custom node packs are required. See the [Dependencies guide](docs/Dependencies.md).
+
 ## 🎯 Quick Start
 
 Follow the directions below or check out out <a href="https://miro.com/app/board/uXjVIq_PjD0=/?share_link_id=503797400507">Miro Board</a> for detailed instructions and videos.
@@ -145,6 +149,13 @@ Follow the directions below or check out out <a href="https://miro.com/app/board
 [First steps 2](docs/First_steps_2.md)
 
 [First steps 3](docs/First_steps_3.md)
+
+### Reference
+
+- [Dependencies](docs/Dependencies.md)
+- [Node Reference](docs/Node_Reference.md)
+- [Architecture](docs/Architecture.md)
+- [Troubleshooting](docs/Troubleshooting.md)
 
 ---
 

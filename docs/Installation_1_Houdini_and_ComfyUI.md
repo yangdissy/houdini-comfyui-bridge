@@ -2,7 +2,7 @@
 
 ## Install Houdini
 
-1. Go to sidefx [download section](https://www.sidefx.com/download/) and download **H21.0.465+** or **H20.5** build with **python 3.11**
+1. Go to sidefx [download section](https://www.sidefx.com/download/) and download **H21.0.465+** or **H20.5.613+** build with **python 3.11**
 2. Install it
 
 ## Install ComfyUI

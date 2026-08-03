@@ -32,6 +32,10 @@
 
    b. Restart ComfyUI server for it to see the plugin
 
+## Dependencies
+
+Before proceeding, make sure the Python and ComfyUI custom-node dependencies are installed. See [Dependencies](Dependencies.md).
+
 ## Next steps:
 
-- [first workflow](link-to-first-workflow)
+- [First Steps 1 — Verify the installation](First_steps_1.md)
